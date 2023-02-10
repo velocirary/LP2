@@ -1,6 +1,6 @@
 # Linguagem de Programação II 
 
-<p>Esse repositório armazena todas as <ins>atividades</ins> e <ins>provinhas</ins> desenvolvidas na discplina de LP2 durante a graduação em <b>Análise e Desenvolvimento de Sistemas</b> (ADS) na Fatec Sorocaba</P
+<p>Esse repositório armazena todas as <ins>atividades</ins> e <ins>provinhas</ins> desenvolvidas na disciplina de LP2 durante a graduação em <b>Análise e Desenvolvimento de Sistemas</b> (ADS) na Fatec Sorocaba</P
 
 
 
